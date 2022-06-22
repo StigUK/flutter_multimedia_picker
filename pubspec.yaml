@@ -5,13 +5,11 @@ author: Atri Technocrat <developers@atritechnocrat.com>
 homepage: https://github.com/Atri-Technocrat/flutter-picker
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
-
-  provider: ^3.1.0+1
 
 dev_dependencies:
   flutter_test:
